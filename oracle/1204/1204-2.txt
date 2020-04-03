@@ -1,0 +1,622 @@
+Study Start:  time = 10.04199
+Grid Cleared:  time = 10.04199
+Added Ground at 0, 0:  time = 14.53427
+Added Ground at 1, 0:  time = 14.6682
+Added Ground at 2, 0:  time = 14.73445
+Added Ground at 3, 0:  time = 14.80161
+Added Ground at 4, 0:  time = 14.90153
+Added Ground at 5, 0:  time = 14.96901
+Added Ground at 6, 0:  time = 15.00233
+Added Ground at 7, 0:  time = 15.03575
+Added Ground at 8, 0:  time = 15.06905
+Added Ground at 9, 0:  time = 15.10224
+Added Ground at 10, 0:  time = 15.11901
+Added Ground at 11, 0:  time = 15.18563
+Added Ground at 12, 0:  time = 15.31891
+Added Ground at 13, 0:  time = 15.51916
+Added Ground at 15, 0:  time = 18.55489
+Added Ground at 16, 0:  time = 18.6547
+Added Ground at 17, 0:  time = 18.70476
+Added Ground at 18, 0:  time = 18.72141
+Added Ground at 19, 0:  time = 18.77154
+Added Ground at 20, 0:  time = 18.8378
+Added Ground at 21, 0:  time = 18.95556
+Added Ground at 22, 0:  time = 19.00552
+Added Ground at 23, 0:  time = 19.02201
+Added Ground at 24, 0:  time = 19.05541
+Added Ground at 25, 0:  time = 19.07207
+Added Ground at 26, 0:  time = 19.10539
+Added Ground at 27, 0:  time = 19.15544
+Added Ground at 28, 0:  time = 19.20532
+Added Ground at 29, 0:  time = 19.28868
+Added Ground at 30, 0:  time = 19.33877
+Added Ground at 31, 0:  time = 19.37223
+Added Ground at 32, 0:  time = 19.40548
+Added Ground at 33, 0:  time = 19.42202
+Added Ground at 34, 0:  time = 19.47208
+Added Ground at 35, 0:  time = 19.50606
+Added Ground at 36, 0:  time = 19.60606
+Added Ground at 37, 0:  time = 19.67278
+Added Ground at 38, 0:  time = 19.72233
+Added Ground at 39, 0:  time = 19.77224
+Added Ground at 40, 0:  time = 19.78891
+Added Ground at 41, 0:  time = 19.82289
+Added Ground at 42, 0:  time = 19.85619
+Added Ground at 43, 0:  time = 19.88945
+Added Ground at 44, 0:  time = 19.9056
+Added Ground at 45, 0:  time = 19.9223
+Added Ground at 46, 0:  time = 19.9556
+Added Ground at 47, 0:  time = 19.97223
+Added Ground at 48, 0:  time = 19.98891
+Added Ground at 49, 0:  time = 20.00605
+Added Ground at 50, 0:  time = 20.02283
+Added Ground at 51, 0:  time = 20.05612
+Added Ground at 52, 0:  time = 20.05612
+Added Ground at 53, 0:  time = 20.07275
+Added Ground at 54, 0:  time = 20.08946
+Added Ground at 55, 0:  time = 20.10595
+Added Ground at 56, 0:  time = 20.12271
+Added Ground at 57, 0:  time = 20.12271
+Added Ground at 58, 0:  time = 20.15603
+Added Ground at 59, 0:  time = 20.17255
+Added Ground at 60, 0:  time = 20.17255
+Added Ground at 61, 0:  time = 20.19007
+Added Ground at 62, 0:  time = 20.20684
+Added Ground at 63, 0:  time = 20.22349
+Added Ground at 64, 0:  time = 20.22349
+Added Ground at 65, 0:  time = 20.24014
+Added Ground at 66, 0:  time = 20.27333
+Added Ground at 67, 0:  time = 20.27333
+Added Ground at 68, 0:  time = 20.28996
+Added Ground at 69, 0:  time = 20.30613
+Added Ground at 70, 0:  time = 20.30613
+Added Ground at 71, 0:  time = 20.32281
+Added Ground at 72, 0:  time = 20.3561
+Added Ground at 73, 0:  time = 20.37277
+Added Ground at 74, 0:  time = 20.37277
+Added Ground at 75, 0:  time = 20.39008
+Added Ground at 76, 0:  time = 20.40692
+Added Ground at 77, 0:  time = 20.40692
+Added Ground at 78, 0:  time = 20.42349
+Added Ground at 79, 0:  time = 20.44014
+Added Ground at 80, 0:  time = 20.44014
+Added Ground at 81, 0:  time = 20.47346
+Added Ground at 82, 0:  time = 20.47346
+Added Ground at 83, 0:  time = 20.4901
+Added Ground at 84, 0:  time = 20.50608
+Added Ground at 85, 0:  time = 20.50608
+Added Ground at 86, 0:  time = 20.52283
+Added Ground at 87, 0:  time = 20.55612
+Added Ground at 88, 0:  time = 20.55612
+Added Ground at 89, 0:  time = 20.57276
+Added Ground at 90, 0:  time = 20.59017
+Added Ground at 91, 0:  time = 20.59017
+Added Ground at 92, 0:  time = 20.60693
+Added Ground at 93, 0:  time = 20.62358
+Added Ground at 94, 0:  time = 20.64028
+Added Ground at 95, 0:  time = 20.64028
+Added Ground at 96, 0:  time = 20.67353
+Added Ground at 97, 0:  time = 20.69014
+Added Cloud 2 at 2, 13:  time = 28.5797
+Added Cloud 2 at 11, 13:  time = 29.46374
+Added Cloud 2 at 17, 13:  time = 30.19754
+Added Cloud 2 at 34, 13:  time = 31.8149
+Added Castle at 0, 1:  time = 36.48875
+Added Hill at 9, 1:  time = 61.53048
+Added Bush 2 at 19, 1:  time = 64.26563
+Added Bush 2 at 28, 1:  time = 65.13351
+Added Bush 2 at 36, 1:  time = 67.01801
+Starting Run:  time = 71.68842
+End Run:  time = 81.86441
+Grid Cleared:  time = 81.88115
+Load Grid Start:  time = 81.88115
+Grid Cleared:  time = 81.88115
+Load Grid End:  time = 81.88115
+Added Bar at 11, 3:  time = 90.90852
+Added Question at 20, 1:  time = 95.29468
+Added Question at 24, 1:  time = 96.54601
+Added Lakitu at 22, 1:  time = 101.4331
+Added Coin at 26, 4:  time = 111.3636
+Added Coin at 27, 5:  time = 111.9644
+Added Coin at 28, 4:  time = 112.7984
+Added Coin at 29, 3:  time = 114.5836
+Added Coin at 32, 5:  time = 116.3513
+Added Coin at 33, 6:  time = 116.9515
+Added Pipe at 33, 2:  time = 123.0899
+Added Pipe at 34, 2:  time = 123.9071
+Added Pipe at 34, 2:  time = 123.9071
+Added Pipe at 34, 2:  time = 123.9071
+Added Pipe at 34, 2:  time = 123.9071
+Added Pipe at 33, 1:  time = 124.3745
+Added PipeBody at 39, 1:  time = 127.2598
+Added PipeBody at 39, 2:  time = 127.877
+Added PipeBody at 39, 3:  time = 128.4938
+Added Plant at 33, 3:  time = 137.5513
+Added Question at 17, 3:  time = 146.0751
+Added Tree 2 at 56, 1:  time = 175.5817
+Added Cloud at 42, 13:  time = 178.8341
+Added Cloud 2 at 48, 13:  time = 181.57
+Added Cloud at 56, 13:  time = 183.4877
+Added Cloud at 61, 13:  time = 184.8226
+Added Bush at 46, 1:  time = 189.5753
+Added Hill at 67, 1:  time = 193.0121
+Added Mario at 2, 8:  time = 207.7403
+Ended Turn:  time = 210.4588
+Added Block at 0, 12:  time = 212.1293
+Added Ground at 1, 1:  time = 212.5125
+Added Ground at 2, 1:  time = 212.8958
+Added Ground at 3, 1:  time = 213.2791
+Added Ground at 4, 1:  time = 213.662
+Added Ground at 5, 1:  time = 214.0463
+Added Ground at 6, 1:  time = 214.4304
+Added Block at 6, 12:  time = 214.8138
+Added Ground at 7, 1:  time = 215.1971
+Added Ground at 8, 1:  time = 215.5812
+Added Ground at 10, 1:  time = 215.9643
+Added Ground at 11, 1:  time = 216.349
+Added Ground at 13, 1:  time = 216.7322
+Added Ground at 14, 0:  time = 217.1156
+Added Ground at 14, 1:  time = 217.4996
+Added Ground at 15, 1:  time = 217.8829
+Added Block at 16, 12:  time = 218.2663
+Added Ground at 17, 1:  time = 218.6503
+Added Block at 17, 12:  time = 219.0335
+Player Turn:  time = 219.2515
+Added Ground at 1, 1:  time = 226.1966
+Added Ground at 1, 1:  time = 226.1966
+Added Ground at 1, 1:  time = 226.1966
+Added Ground at 1, 1:  time = 226.1966
+Added Ground at 2, 1:  time = 226.5137
+Added Ground at 2, 1:  time = 226.5137
+Added Ground at 2, 1:  time = 226.5137
+Added Ground at 2, 1:  time = 226.5137
+Added Ground at 3, 1:  time = 226.897
+Added Ground at 3, 1:  time = 226.897
+Added Ground at 3, 1:  time = 226.897
+Added Ground at 3, 1:  time = 226.897
+Added Ground at 4, 1:  time = 227.3145
+Added Ground at 4, 1:  time = 227.3145
+Added Ground at 4, 1:  time = 227.3145
+Added Ground at 4, 1:  time = 227.3145
+Added Ground at 5, 1:  time = 227.6816
+Added Ground at 5, 1:  time = 227.6816
+Added Ground at 5, 1:  time = 227.6816
+Added Ground at 5, 1:  time = 227.6816
+Added Ground at 6, 1:  time = 228.0484
+Added Ground at 6, 1:  time = 228.0484
+Added Ground at 6, 1:  time = 228.0484
+Added Ground at 6, 1:  time = 228.0484
+Added Ground at 7, 1:  time = 228.449
+Added Ground at 7, 1:  time = 228.449
+Added Ground at 7, 1:  time = 228.449
+Added Ground at 7, 1:  time = 228.449
+Added Ground at 8, 1:  time = 228.8157
+Added Ground at 8, 1:  time = 228.8157
+Added Ground at 8, 1:  time = 228.8157
+Added Ground at 8, 1:  time = 228.8157
+Starting Run:  time = 232.6687
+Player had score 0
+Lost!
+Player got Coin
+Player got Coin
+Player LakituSquished:  time = 255.6926
+Player had score 2000
+Lost!
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+Player LakituSquished:  time = 265.174
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+End Run:  time = 276.2821
+Grid Cleared:  time = 276.2987
+Load Grid Start:  time = 276.2987
+Grid Cleared:  time = 276.2987
+Load Grid End:  time = 276.2987
+Added Coin at 8, 4:  time = 282.692
+Added Coin at 8, 3:  time = 283.1087
+Added Coin at 9, 3:  time = 283.8101
+Added Stair at 47, 1:  time = 293.2162
+Added Stair at 48, 1:  time = 293.9009
+Added Stair at 49, 1:  time = 294.7682
+Added Stair at 48, 2:  time = 295.3021
+Added Stair at 49, 2:  time = 295.6523
+Added Stair at 50, 2:  time = 296.1021
+Added Stair at 50, 1:  time = 296.4355
+Added Stair at 51, 1:  time = 296.8027
+Added Stair at 49, 3:  time = 297.7202
+Added Stair at 51, 3:  time = 298.0714
+Added Stair at 50, 3:  time = 298.8376
+Added Stair at 50, 4:  time = 299.3707
+Added Stair at 51, 4:  time = 299.8059
+Added Stair at 51, 2:  time = 300.5899
+Added Stair at 51, 5:  time = 301.9906
+Added Stair at 52, 5:  time = 302.3238
+Added Stair at 52, 4:  time = 303.0591
+Added Stair at 52, 3:  time = 303.3585
+Added Stair at 52, 2:  time = 303.6919
+Added Stair at 52, 1:  time = 304.2921
+Added Pipe at 53, 6:  time = 307.2448
+Added Block at 53, 5:  time = 309.9462
+Added Block at 54, 5:  time = 310.2295
+Added Koopa at 57, 1:  time = 316.018
+Added Koopa 2 at 64, 1:  time = 319.3203
+Added Goomba at 54, 11:  time = 322.6744
+Added Coin at 55, 9:  time = 327.3769
+Added Coin at 56, 9:  time = 327.8446
+Added Coin at 57, 10:  time = 328.3447
+Added Coin at 58, 9:  time = 328.8953
+Added Cloud 2 at 71, 13:  time = 344.274
+Added Cloud 2 at 89, 13:  time = 345.0416
+Added Fence at 79, 1:  time = 349.779
+Added Fence at 79, 2:  time = 350.0617
+Added Fence at 79, 3:  time = 350.3797
+Added Waves at 86, 1:  time = 353.181
+Added Waves at 87, 1:  time = 353.9649
+Added Waves at 87, 1:  time = 353.9649
+Added Waves at 87, 1:  time = 353.9649
+Added Waves at 87, 1:  time = 353.9649
+Added Ground at 83, 0:  time = 359.8192
+Added Ground at 83, 0:  time = 359.8192
+Added Ground at 83, 0:  time = 359.8192
+Added Ground at 83, 0:  time = 359.8192
+Added Ground at 84, 0:  time = 360.403
+Added Ground at 84, 0:  time = 360.403
+Added Ground at 84, 0:  time = 360.403
+Added Ground at 84, 0:  time = 360.403
+Added Ground at 85, 0:  time = 360.7045
+Added Ground at 85, 0:  time = 360.7045
+Added Ground at 85, 0:  time = 360.7045
+Added Ground at 85, 0:  time = 360.7045
+Added Ground at 88, 0:  time = 361.1379
+Added Ground at 88, 0:  time = 361.1379
+Added Ground at 88, 0:  time = 361.1379
+Added Ground at 88, 0:  time = 361.1379
+Added Ground at 89, 0:  time = 361.5872
+Added Ground at 89, 0:  time = 361.5872
+Added Ground at 89, 0:  time = 361.5872
+Added Ground at 89, 0:  time = 361.5872
+Added Ground at 87, 0:  time = 361.9046
+Added Ground at 87, 0:  time = 361.9046
+Added Ground at 87, 0:  time = 361.9046
+Added Ground at 87, 0:  time = 361.9046
+Added Ground at 86, 0:  time = 362.5082
+Added Ground at 86, 0:  time = 362.5082
+Added Ground at 86, 0:  time = 362.5082
+Added Ground at 86, 0:  time = 362.5082
+Added Ground at 90, 0:  time = 363.3566
+Added Ground at 90, 0:  time = 363.3566
+Added Ground at 90, 0:  time = 363.3566
+Added Ground at 90, 0:  time = 363.3566
+Added Ground at 91, 0:  time = 363.6224
+Added Ground at 91, 0:  time = 363.6224
+Added Ground at 91, 0:  time = 363.6224
+Added Ground at 91, 0:  time = 363.6224
+Added Ground at 92, 0:  time = 363.7391
+Added Ground at 92, 0:  time = 363.7391
+Added Ground at 93, 0:  time = 364.0732
+Added Ground at 93, 0:  time = 364.0732
+Added Ground at 93, 0:  time = 364.0732
+Added Ground at 93, 0:  time = 364.0732
+Added Ground at 94, 0:  time = 364.1231
+Added Ground at 94, 0:  time = 364.1231
+Added Ground at 95, 0:  time = 364.2397
+Added Ground at 95, 0:  time = 364.2397
+Added Ground at 95, 0:  time = 364.2397
+Added Ground at 95, 0:  time = 364.2397
+Added Ground at 96, 0:  time = 364.3405
+Added Ground at 96, 0:  time = 364.3405
+Added Waves at 82, 0:  time = 365.9243
+Added Waves at 83, 0:  time = 367.7095
+Added Waves at 83, 0:  time = 367.7095
+Added Waves at 83, 0:  time = 367.7095
+Added Waves at 83, 0:  time = 367.7095
+Added Waves at 83, 0:  time = 368.1931
+Added Waves at 85, 0:  time = 369.4941
+Added Waves at 87, 0:  time = 371.1454
+Added Waves at 89, 0:  time = 371.4619
+Added Waves at 91, 0:  time = 371.7955
+Added Waves at 93, 0:  time = 372.2287
+Added Waves at 95, 0:  time = 372.9639
+Added Ground at 97, 0:  time = 373.7141
+Added Ground at 97, 0:  time = 373.7141
+Added Ground at 97, 0:  time = 373.7141
+Added Ground at 97, 0:  time = 373.7141
+Added Bark at 82, 1:  time = 377.4345
+Added Bark at 83, 2:  time = 378.1501
+Added Bark at 83, 1:  time = 378.4344
+Added Bark at 85, 1:  time = 378.6852
+Added Bark at 84, 1:  time = 379.1187
+Added Bark at 84, 2:  time = 379.4184
+Added Bark at 85, 2:  time = 379.7025
+Added Bark at 86, 2:  time = 380.1358
+Added Bark at 86, 1:  time = 380.1691
+Added Bark at 87, 1:  time = 380.6357
+Added Bark at 87, 2:  time = 380.9192
+Added Bark at 88, 2:  time = 381.2533
+Added Bark at 88, 1:  time = 381.5543
+Added Bark at 89, 1:  time = 381.7036
+Added Bark at 89, 2:  time = 382.037
+Added Bark at 90, 2:  time = 384.3728
+Added Bark at 90, 1:  time = 384.4729
+Added Bark at 91, 1:  time = 384.6897
+Added Bark at 91, 2:  time = 384.8569
+Added Bark at 92, 2:  time = 385.0731
+Added Bark at 92, 1:  time = 385.2569
+Added Bark at 93, 2:  time = 385.69
+Added Bark at 93, 1:  time = 385.9234
+Added Bark at 94, 1:  time = 386.1574
+Added Bark at 94, 2:  time = 386.2241
+Added Bark at 95, 2:  time = 386.64
+Added Bark at 95, 1:  time = 386.8242
+Added Bark at 96, 1:  time = 387.208
+Added Bark at 96, 2:  time = 387.4421
+Added Bark at 97, 1:  time = 388.2256
+Added Bark at 97, 2:  time = 388.976
+Added Question at 83, 6:  time = 394.1963
+Added Question at 86, 7:  time = 395.2645
+Added Question at 90, 5:  time = 396.0657
+Added Question at 92, 6:  time = 396.999
+Added Flag at 96, 3:  time = 404.7221
+Ended Turn:  time = 412.3784
+Added Ground at 80, 1:  time = 413.3974
+Added Ground at 81, 1:  time = 413.798
+Added Block at 81, 12:  time = 414.1987
+Added Ground at 84, 0:  time = 414.6153
+Added Goomba at 85, 8:  time = 415.0154
+Added Ground at 86, 0:  time = 415.4159
+Added Ground at 88, 0:  time = 415.8325
+Added Block at 88, 12:  time = 416.25
+Added Ground at 92, 0:  time = 416.6673
+Added Ground at 94, 0:  time = 417.0672
+Added Ground at 96, 0:  time = 417.4672
+Added Ground at 97, 0:  time = 418.1178
+Added Ground at 98, 0:  time = 418.5187
+Added Ground at 98, 1:  time = 418.9192
+Added Ground at 99, 0:  time = 419.3358
+Added Ground at 99, 1:  time = 419.7366
+Added Block at 99, 12:  time = 420.1378
+Player Turn:  time = 420.3699
+Added Ground at 84, 0:  time = 422.6883
+Added Ground at 84, 0:  time = 422.6883
+Added Ground at 84, 0:  time = 422.6883
+Added Ground at 84, 0:  time = 422.6883
+Added Ground at 86, 0:  time = 423.5224
+Added Ground at 86, 0:  time = 423.5224
+Added Ground at 86, 0:  time = 423.5224
+Added Ground at 86, 0:  time = 423.5224
+Added Ground at 88, 0:  time = 423.9222
+Added Ground at 88, 0:  time = 423.9222
+Added Ground at 88, 0:  time = 423.9222
+Added Ground at 88, 0:  time = 423.9222
+Added Ground at 92, 0:  time = 424.6236
+Added Ground at 92, 0:  time = 424.6236
+Added Ground at 92, 0:  time = 424.6236
+Added Ground at 92, 0:  time = 424.6236
+Added Ground at 94, 0:  time = 425.1568
+Added Ground at 94, 0:  time = 425.1568
+Added Ground at 94, 0:  time = 425.1568
+Added Ground at 94, 0:  time = 425.1568
+Added Ground at 97, 0:  time = 425.5908
+Added Ground at 97, 0:  time = 425.5908
+Added Ground at 97, 0:  time = 425.5908
+Added Ground at 97, 0:  time = 425.5908
+Added Ground at 96, 0:  time = 425.9411
+Added Ground at 96, 0:  time = 425.9411
+Added Ground at 96, 0:  time = 425.9411
+Added Ground at 96, 0:  time = 425.9411
+Added Ground at 98, 0:  time = 426.2912
+Added Ground at 98, 0:  time = 426.2912
+Added Ground at 98, 0:  time = 426.2912
+Added Ground at 98, 0:  time = 426.2912
+Added Ground at 99, 0:  time = 426.9589
+Added Ground at 99, 0:  time = 426.9589
+Added Ground at 99, 0:  time = 426.9589
+Starting Run:  time = 433.2966
+Player LakituSquished:  time = 435.1489
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player KoopaRedSquish:  time = 449.4788
+Player had score 9000
+Lost!
+Player LakituSquished:  time = 455.7323
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player KoopaRedSquish:  time = 469.3429
+Player KoopaRedSquish:  time = 473.1115
+Player had score 10000
+Lost!
+Player got Coin
+Player got Coin
+Player LakituSquished:  time = 476.3636
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player KoopaRedSquish:  time = 488.3895
+Player had score 12000
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player had score 3000
+Lost!
+Player got Coin
+Player got Coin
+Player LakituSquished:  time = 497.9126
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player had score 8000
+Lost!
+End Run:  time = 508.5215
+Grid Cleared:  time = 508.5382
+Load Grid Start:  time = 508.5382
+Grid Cleared:  time = 508.5382
+Load Grid End:  time = 508.5382
+Added Bark at 83, 1:  time = 517.4518
+Added Bark at 83, 1:  time = 517.4518
+Added Bark at 82, 1:  time = 517.4518
+Added Bark at 82, 1:  time = 517.4518
+Added Bark at 83, 2:  time = 518.1692
+Added Bark at 83, 2:  time = 518.1692
+Added Bark at 83, 2:  time = 518.1692
+Added Bark at 83, 2:  time = 518.1692
+Added Bark at 84, 2:  time = 518.3528
+Added Bark at 84, 2:  time = 518.3528
+Added Bark at 84, 2:  time = 518.3528
+Added Bark at 85, 2:  time = 518.386
+Added Bark at 85, 2:  time = 518.386
+Added Bark at 85, 2:  time = 518.386
+Added Bark at 85, 2:  time = 518.386
+Added Bark at 85, 1:  time = 518.5197
+Added Bark at 85, 1:  time = 518.5197
+Added Bark at 85, 1:  time = 518.5197
+Added Bark at 86, 1:  time = 518.6854
+Added Bark at 86, 1:  time = 518.6854
+Added Bark at 87, 1:  time = 518.7354
+Added Bark at 87, 1:  time = 518.7354
+Added Bark at 87, 1:  time = 518.7354
+Added Bark at 84, 1:  time = 519.1204
+Added Bark at 84, 1:  time = 519.1204
+Added Bark at 84, 1:  time = 519.1204
+Added Bark at 84, 1:  time = 519.1204
+Added Bark at 87, 2:  time = 519.4877
+Added Bark at 87, 2:  time = 519.4877
+Added Bark at 86, 2:  time = 519.8702
+Added Bark at 88, 2:  time = 520.121
+Added Bark at 88, 2:  time = 520.121
+Added Bark at 88, 2:  time = 520.121
+Added Bark at 89, 2:  time = 520.1704
+Added Bark at 89, 2:  time = 520.1704
+Added Bark at 89, 2:  time = 520.1704
+Added Bark at 90, 2:  time = 520.2203
+Added Bark at 90, 2:  time = 520.2203
+Added Bark at 91, 2:  time = 520.2875
+Added Bark at 91, 2:  time = 520.2875
+Added Bark at 91, 2:  time = 520.2875
+Added Bark at 91, 2:  time = 520.2875
+Added Bark at 92, 2:  time = 520.3879
+Added Bark at 92, 2:  time = 520.3879
+Added Bark at 92, 2:  time = 520.3879
+Added Bark at 92, 2:  time = 520.3879
+Added Bark at 93, 2:  time = 520.4551
+Added Bark at 93, 2:  time = 520.4551
+Added Bark at 93, 2:  time = 520.4551
+Added Bark at 93, 2:  time = 520.4551
+Added Bark at 94, 2:  time = 520.4883
+Added Bark at 95, 2:  time = 520.555
+Added Bark at 95, 2:  time = 520.555
+Added Bark at 95, 2:  time = 520.555
+Added Bark at 96, 2:  time = 520.5884
+Added Bark at 96, 2:  time = 520.5884
+Added Bark at 97, 2:  time = 520.6217
+Added Bark at 97, 2:  time = 520.6217
+Added Bark at 97, 1:  time = 520.6551
+Added Bark at 96, 1:  time = 520.6717
+Added Bark at 96, 1:  time = 520.6717
+Added Bark at 96, 1:  time = 520.6717
+Added Bark at 95, 1:  time = 520.7217
+Added Bark at 95, 1:  time = 520.7217
+Added Bark at 95, 1:  time = 520.7217
+Added Bark at 94, 1:  time = 520.7544
+Added Bark at 94, 1:  time = 520.7544
+Added Bark at 93, 1:  time = 521.1216
+Added Bark at 92, 1:  time = 521.2381
+Added Bark at 92, 1:  time = 521.2381
+Added Bark at 92, 1:  time = 521.2381
+Added Bark at 91, 1:  time = 521.2881
+Added Bark at 90, 1:  time = 521.355
+Added Bark at 90, 1:  time = 521.355
+Added Bark at 90, 1:  time = 521.355
+Added Bark at 89, 1:  time = 521.4382
+Added Bark at 88, 1:  time = 521.6224
+Added Bark at 88, 1:  time = 521.6224
+Added Ground at 82, 1:  time = 522.4391
+Added Ground at 83, 1:  time = 522.5555
+Added Ground at 84, 1:  time = 522.5903
+Added Ground at 85, 1:  time = 522.6238
+Added Ground at 86, 1:  time = 522.657
+Added Ground at 87, 1:  time = 522.7238
+Added Ground at 88, 1:  time = 522.7903
+Added Ground at 89, 1:  time = 522.8231
+Added Ground at 90, 1:  time = 522.8564
+Added Ground at 91, 1:  time = 522.8896
+Added Ground at 92, 1:  time = 522.9396
+Added Ground at 93, 1:  time = 522.9902
+Added Ground at 94, 1:  time = 523.0961
+Added Ground at 95, 1:  time = 523.1456
+Added Ground at 96, 1:  time = 523.2943
+Added Ground at 97, 1:  time = 523.6089
+Added Ground at 82, 2:  time = 524.8248
+Added Ground at 83, 2:  time = 524.9922
+Added Ground at 84, 2:  time = 525.0256
+Added Ground at 85, 2:  time = 525.0588
+Added Ground at 86, 2:  time = 525.1082
+Added Ground at 87, 2:  time = 525.158
+Added Ground at 88, 2:  time = 525.1748
+Added Ground at 89, 2:  time = 525.2244
+Added Ground at 90, 2:  time = 525.2413
+Added Ground at 91, 2:  time = 525.2748
+Added Ground at 92, 2:  time = 525.3081
+Added Ground at 93, 2:  time = 525.3581
+Added Ground at 94, 2:  time = 525.4247
+Added Ground at 95, 2:  time = 525.4915
+Added Ground at 96, 2:  time = 525.5589
+Added Ground at 97, 2:  time = 526.2921
+Added Hard Shell at 86, 3:  time = 530.829
+Ended Turn:  time = 532.7803
+Added Ground at 70, 1:  time = 533.7667
+Added Koopa at 70, 5:  time = 534.0997
+Added Ground at 71, 1:  time = 534.434
+Added Ground at 72, 1:  time = 534.7673
+Added Ground at 74, 1:  time = 535.1008
+Added Ground at 75, 1:  time = 535.4346
+Added Ground at 76, 1:  time = 535.7675
+Added Goomba at 76, 9:  time = 536.1018
+Added Ground at 77, 1:  time = 536.436
+Added Ground at 78, 1:  time = 536.7699
+Added Ground at 84, 0:  time = 537.1041
+Added Ground at 86, 0:  time = 537.4367
+Added Block at 87, 12:  time = 537.7711
+Added Ground at 88, 0:  time = 538.1039
+Added Goomba at 89, 4:  time = 538.4371
+Added Ground at 90, 0:  time = 538.7712
+Added Ground at 92, 0:  time = 539.1052
+Added Ground at 94, 0:  time = 539.4384
+Added Ground at 96, 0:  time = 539.7725
+Added Ground at 97, 0:  time = 540.1058
+Added Block at 98, 12:  time = 540.4383
+Added Ground at 99, 0:  time = 540.7731
+Player Turn:  time = 540.9566
+Study End:  time = 670.8757

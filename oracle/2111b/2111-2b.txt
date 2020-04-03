@@ -1,0 +1,3 @@
+Study Start:  time = 2.537274
+Grid Cleared:  time = 2.537274
+Study End:  time = 4.060124

@@ -1,0 +1,970 @@
+Study Start:  time = 7.752358
+Grid Cleared:  time = 7.752358
+Added Ground at 19, 4:  time = 17.38171
+Added Ground at 19, 3:  time = 17.59831
+Added Ground at 20, 3:  time = 17.59831
+Grid Cleared:  time = 22.70269
+Added Block at 0, 8:  time = 124.9481
+Added Block at 0, 7:  time = 125.0649
+Added Block at 1, 7:  time = 125.0815
+Added Block at 2, 6:  time = 125.1321
+Added Block at 3, 6:  time = 125.1821
+Added Block at 3, 5:  time = 125.1821
+Added Block at 4, 5:  time = 125.2317
+Added Block at 5, 4:  time = 125.2983
+Added Block at 6, 4:  time = 125.348
+Added Block at 7, 4:  time = 125.398
+Added Block at 7, 3:  time = 125.4147
+Added Block at 8, 3:  time = 125.5147
+Added Block at 9, 3:  time = 125.5982
+Added Block at 9, 2:  time = 125.6817
+Added Block at 10, 2:  time = 125.6984
+Added Block at 11, 2:  time = 125.832
+Added Block at 8, 2:  time = 126.1989
+Added Block at 7, 2:  time = 126.2652
+Added Block at 6, 2:  time = 126.3329
+Added Block at 6, 3:  time = 126.3995
+Added Block at 5, 3:  time = 126.516
+Added Block at 4, 4:  time = 126.7329
+Added Block at 3, 4:  time = 126.8833
+Added Block at 2, 4:  time = 127.0668
+Added Block at 2, 5:  time = 127.0834
+Added Block at 1, 5:  time = 127.5335
+Added Block at 1, 6:  time = 127.5834
+Added Block at 0, 6:  time = 128.2847
+Added Block at 0, 5:  time = 128.6679
+Added Block at 0, 4:  time = 128.8513
+Added Block at 1, 4:  time = 129.0173
+Added Block at 1, 8:  time = 131.0704
+Added Block at 4, 6:  time = 132.321
+Added Block at 5, 6:  time = 132.4377
+Added Block at 5, 5:  time = 132.7544
+Added Block at 6, 6:  time = 133.0052
+Added Block at 7, 6:  time = 133.0716
+Added Block at 6, 5:  time = 133.2044
+Added Block at 7, 5:  time = 133.4709
+Added Block at 3, 3:  time = 134.2555
+Added Block at 2, 3:  time = 134.2715
+Added Block at 1, 3:  time = 134.3216
+Added Block at 0, 3:  time = 134.3555
+Added Block at 4, 3:  time = 134.7057
+Added Block at 4, 2:  time = 135.0052
+Added Block at 3, 2:  time = 135.0561
+Added Block at 2, 2:  time = 135.1227
+Added Block at 1, 2:  time = 135.1723
+Added Block at 0, 2:  time = 135.306
+Added Block at 5, 2:  time = 135.6235
+Added Block at 5, 1:  time = 135.9068
+Added Block at 4, 1:  time = 135.9737
+Added Block at 3, 1:  time = 136.0236
+Added Block at 2, 1:  time = 136.0896
+Added Block at 1, 1:  time = 136.1733
+Added Block at 0, 1:  time = 136.3575
+Added Block at 2, 0:  time = 136.5408
+Added Block at 3, 0:  time = 136.574
+Added Block at 4, 0:  time = 136.6075
+Added Block at 5, 0:  time = 136.6575
+Added Block at 6, 0:  time = 136.7074
+Added Block at 6, 1:  time = 137.2913
+Added Block at 1, 0:  time = 137.8078
+Added Block at 0, 0:  time = 137.9579
+Added Block at 7, 1:  time = 138.9926
+Added Block at 7, 0:  time = 139.2432
+Added Block at 8, 1:  time = 139.4767
+Added Block at 8, 0:  time = 139.7591
+Added Block at 9, 1:  time = 139.9773
+Added Block at 9, 0:  time = 140.1939
+Added Block at 10, 1:  time = 140.4108
+Added Block at 10, 0:  time = 140.6766
+Added Block at 11, 0:  time = 141.0611
+Added Block at 11, 1:  time = 141.2446
+Added Block at 12, 0:  time = 141.6292
+Added Block at 12, 1:  time = 141.9946
+Added Block at 12, 2:  time = 142.1285
+Added Block at 12, 3:  time = 142.3111
+Added Block at 12, 4:  time = 142.528
+Added Block at 12, 5:  time = 142.6796
+Added Block at 12, 6:  time = 142.8291
+Added Block at 13, 6:  time = 142.9285
+Added Block at 13, 7:  time = 142.9285
+Added Block at 13, 8:  time = 143.0457
+Added Block at 13, 9:  time = 143.2956
+Added Block at 13, 10:  time = 143.6463
+Added Block at 13, 5:  time = 144.3796
+Added Block at 13, 4:  time = 144.4462
+Added Block at 13, 3:  time = 144.5469
+Added Block at 13, 2:  time = 144.6468
+Added Block at 13, 1:  time = 144.7295
+Added Block at 13, 0:  time = 145.1636
+Added Block at 12, 6:  time = 147.2987
+Added Block at 12, 6:  time = 147.2987
+Added Block at 12, 6:  time = 147.2987
+Added Block at 12, 6:  time = 147.2987
+Added Block at 12, 5:  time = 147.4321
+Added Block at 12, 5:  time = 147.4321
+Added Block at 12, 5:  time = 147.4321
+Added Block at 12, 5:  time = 147.4321
+Added Block at 12, 4:  time = 147.5481
+Added Block at 12, 4:  time = 147.5481
+Added Block at 12, 3:  time = 147.9987
+Added Block at 13, 5:  time = 154.0037
+Added Block at 13, 5:  time = 154.0037
+Added Block at 13, 5:  time = 154.0037
+Added Block at 13, 5:  time = 154.0037
+Added Block at 13, 6:  time = 157.7234
+Added Block at 13, 6:  time = 157.7234
+Added Block at 13, 6:  time = 157.7234
+Added Block at 13, 6:  time = 157.7234
+Added SmallCannon at 13, 5:  time = 161.328
+Added SmallCannon at 13, 6:  time = 162.6942
+Added SmallCannon at 13, 6:  time = 163.2279
+Added SmallCannon at 13, 6:  time = 163.2279
+Added SmallCannon at 13, 6:  time = 163.2279
+Added SmallCannon at 13, 6:  time = 163.2279
+Added SmallCannon at 13, 6:  time = 163.8957
+Added SmallCannon at 13, 6:  time = 165.0285
+Added SmallCannon at 13, 6:  time = 165.0285
+Added SmallCannon at 13, 6:  time = 165.0285
+Added SmallCannon at 13, 6:  time = 165.0285
+Added Block at 13, 7:  time = 165.8802
+Added Block at 13, 7:  time = 165.8802
+Added Block at 13, 7:  time = 165.8802
+Added Block at 13, 7:  time = 165.8802
+Added SmallCannon at 13, 7:  time = 167.0809
+Added Block at 13, 8:  time = 168.799
+Added Block at 13, 8:  time = 168.799
+Added Block at 13, 8:  time = 168.799
+Added Block at 13, 8:  time = 168.799
+Added Block at 13, 9:  time = 169.5153
+Added Block at 13, 9:  time = 169.5153
+Added Block at 13, 9:  time = 169.5153
+Added Block at 13, 9:  time = 169.5153
+Added SmallCannon at 13, 9:  time = 169.8826
+Added Block at 13, 6:  time = 176.3206
+Added Block at 13, 8:  time = 177.1713
+Added Block at 14, 10:  time = 178.1555
+Added Block at 14, 9:  time = 179.0393
+Added Block at 7, 6:  time = 180.3244
+Added Block at 7, 6:  time = 180.3244
+Added Block at 7, 6:  time = 180.3244
+Added Block at 7, 6:  time = 180.3244
+Added Block at 7, 5:  time = 180.458
+Added Block at 7, 5:  time = 180.458
+Added Block at 7, 4:  time = 180.7575
+Added Block at 6, 4:  time = 181.0253
+Added Block at 6, 4:  time = 181.0253
+Added Block at 6, 4:  time = 181.0253
+Added Block at 6, 5:  time = 181.0919
+Added Block at 6, 5:  time = 181.0919
+Added Block at 6, 6:  time = 181.5099
+Added Block at 6, 6:  time = 181.5099
+Added Block at 6, 6:  time = 181.5099
+Added Block at 14, 8:  time = 183.41
+Added Block at 14, 7:  time = 183.6932
+Added Block at 14, 6:  time = 183.8766
+Added Block at 14, 5:  time = 183.978
+Added Block at 14, 4:  time = 184.0778
+Added Block at 14, 3:  time = 184.1937
+Added Block at 14, 2:  time = 184.2938
+Added Block at 14, 1:  time = 184.3602
+Added Block at 14, 0:  time = 184.4445
+Added Stair at 15, 2:  time = 187.9801
+Added Stair at 16, 2:  time = 188.1972
+Added Stair at 17, 2:  time = 188.2469
+Added Stair at 18, 2:  time = 188.2799
+Added Stair at 19, 2:  time = 188.3133
+Added Stair at 20, 2:  time = 188.3803
+Added Stair at 21, 2:  time = 188.9642
+Added Stair at 22, 2:  time = 189.1488
+Added Stair at 23, 2:  time = 189.2981
+Added Stair at 24, 2:  time = 189.3967
+Added Stair at 25, 2:  time = 189.5322
+Added Stair at 26, 2:  time = 189.6655
+Added Stair at 19, 2:  time = 191.4157
+Added Stair at 19, 2:  time = 191.4157
+Added Stair at 19, 2:  time = 191.4157
+Added Stair at 19, 2:  time = 191.4157
+Added Stair at 20, 2:  time = 191.5332
+Added Stair at 20, 2:  time = 191.5332
+Added Stair at 20, 2:  time = 191.5332
+Added Stair at 20, 2:  time = 191.5332
+Added Stair at 21, 2:  time = 191.7499
+Added Stair at 21, 2:  time = 191.7499
+Added Stair at 21, 2:  time = 191.7499
+Added Stair at 22, 2:  time = 191.8663
+Added Stair at 18, 2:  time = 194.2349
+Added Stair at 18, 2:  time = 194.2349
+Added Stair at 18, 2:  time = 194.2349
+Added Stair at 18, 2:  time = 194.2349
+Added Stair at 17, 2:  time = 194.4183
+Added Stair at 17, 2:  time = 194.4183
+Added Stair at 17, 2:  time = 194.4183
+Added Stair at 17, 2:  time = 194.4183
+Added Stair at 16, 2:  time = 194.7016
+Added Stair at 16, 2:  time = 194.7016
+Added Stair at 15, 2:  time = 195.1356
+Added Stair at 15, 2:  time = 195.1356
+Added Stair at 15, 2:  time = 195.1356
+Added Stair at 15, 7:  time = 196.4874
+Added Stair at 16, 7:  time = 196.671
+Added Stair at 17, 7:  time = 196.7037
+Added Stair at 19, 10:  time = 201.0069
+Added Stair at 20, 10:  time = 201.2072
+Added Stair at 22, 5:  time = 202.725
+Added Stair at 23, 5:  time = 203.1926
+Added Stair at 24, 5:  time = 204.0431
+Added Stair at 23, 2:  time = 205.0771
+Added Stair at 23, 2:  time = 205.0771
+Added Stair at 23, 2:  time = 205.0771
+Added Stair at 23, 2:  time = 205.0771
+Added Stair at 24, 2:  time = 205.3607
+Added Stair at 24, 2:  time = 205.3607
+Added Stair at 24, 2:  time = 205.3607
+Added Stair at 24, 2:  time = 205.3607
+Added Stair at 25, 2:  time = 205.4436
+Added Stair at 25, 2:  time = 205.4436
+Added Stair at 25, 2:  time = 205.4436
+Added Stair at 25, 2:  time = 205.4436
+Added Stair at 26, 2:  time = 205.5276
+Added Stair at 26, 2:  time = 205.5276
+Added Stair at 24, 5:  time = 206.7949
+Added Stair at 24, 5:  time = 206.7949
+Added Stair at 24, 5:  time = 206.7949
+Added Stair at 24, 5:  time = 206.7949
+Added Stair at 23, 5:  time = 206.9776
+Added Stair at 23, 5:  time = 206.9776
+Added Stair at 23, 5:  time = 206.9776
+Added Stair at 23, 5:  time = 206.9776
+Added Stair at 22, 5:  time = 207.2117
+Added Stair at 22, 5:  time = 207.2117
+Added Stair at 22, 5:  time = 207.2117
+Added Stair at 21, 7:  time = 208.0789
+Added Stair at 22, 7:  time = 208.2627
+Added Stair at 23, 7:  time = 208.3461
+Added Stair at 15, 7:  time = 213.2827
+Added Stair at 15, 7:  time = 213.2827
+Added Stair at 15, 7:  time = 213.2827
+Added Stair at 15, 7:  time = 213.2827
+Added Stair at 16, 7:  time = 213.6504
+Added Stair at 16, 7:  time = 213.6504
+Added Stair at 16, 7:  time = 213.6504
+Added Stair at 16, 7:  time = 213.6504
+Added Stair at 17, 7:  time = 214.117
+Added Stair at 17, 7:  time = 214.117
+Added Stair at 17, 7:  time = 214.117
+Added Stair at 17, 7:  time = 214.117
+Added Stair at 19, 10:  time = 214.5018
+Added Stair at 19, 10:  time = 214.5018
+Added Stair at 19, 10:  time = 214.5018
+Added Stair at 19, 10:  time = 214.5018
+Added Stair at 20, 10:  time = 214.7678
+Added Stair at 20, 10:  time = 214.7678
+Added Stair at 20, 10:  time = 214.7678
+Added Stair at 20, 10:  time = 214.7678
+Added Stair at 21, 7:  time = 215.4684
+Added Stair at 21, 7:  time = 215.4684
+Added Stair at 21, 7:  time = 215.4684
+Added Stair at 21, 7:  time = 215.4684
+Added Stair at 22, 7:  time = 215.8185
+Added Stair at 22, 7:  time = 215.8185
+Added Stair at 22, 7:  time = 215.8185
+Added Stair at 22, 7:  time = 215.8185
+Added Block at 22, 7:  time = 216.2863
+Added Block at 22, 7:  time = 216.7192
+Added Block at 22, 7:  time = 216.7192
+Added Block at 22, 7:  time = 216.7192
+Added Block at 22, 7:  time = 216.7192
+Added Stair at 23, 7:  time = 217.3355
+Added Stair at 23, 7:  time = 217.3355
+Added Stair at 23, 7:  time = 217.3355
+Added Stair at 23, 7:  time = 217.3355
+Added Block at 15, 1:  time = 219.0382
+Added Block at 16, 1:  time = 219.3381
+Added Block at 17, 1:  time = 219.4214
+Added Block at 16, 0:  time = 219.6875
+Added Block at 15, 0:  time = 219.6875
+Added Block at 18, 1:  time = 220.2056
+Added Block at 19, 1:  time = 220.2554
+Added Block at 20, 1:  time = 220.322
+Added Block at 19, 0:  time = 220.5388
+Added Block at 18, 0:  time = 220.5555
+Added Block at 17, 0:  time = 220.5887
+Added Block at 20, 0:  time = 220.8566
+Added Block at 21, 0:  time = 220.8732
+Added Block at 22, 0:  time = 220.906
+Added Block at 23, 0:  time = 220.9228
+Added Block at 24, 0:  time = 220.9394
+Added Block at 25, 0:  time = 220.9727
+Added Block at 21, 1:  time = 221.5078
+Added Block at 22, 1:  time = 221.5739
+Added Block at 23, 1:  time = 221.6233
+Added Block at 24, 1:  time = 221.6894
+Added Question at 19, 4:  time = 226.5103
+Added Question at 20, 4:  time = 226.8598
+Added Question at 21, 4:  time = 227.3774
+Added Block at 25, 1:  time = 232.5151
+Added Block at 26, 1:  time = 232.832
+Added Block at 26, 0:  time = 233.1659
+Added Block at 27, 0:  time = 233.1659
+Added Block at 28, 0:  time = 233.2325
+Added Block at 29, 0:  time = 233.2819
+Added Block at 30, 0:  time = 233.3319
+Added Block at 31, 0:  time = 233.6319
+Added Block at 27, 1:  time = 234.1338
+Added Block at 28, 1:  time = 234.4158
+Added Block at 29, 1:  time = 234.4653
+Added Block at 30, 1:  time = 234.4985
+Added Block at 31, 1:  time = 234.5484
+Added Block at 32, 0:  time = 234.5484
+Added Block at 33, 0:  time = 234.5987
+Added Block at 34, 0:  time = 234.6658
+Added Block at 35, 0:  time = 234.7331
+Added Block at 36, 0:  time = 234.833
+Added Block at 37, 0:  time = 234.9497
+Added Block at 38, 0:  time = 235.0326
+Added Block at 39, 0:  time = 235.0827
+Added Block at 40, 0:  time = 235.135
+Added Block at 41, 0:  time = 235.1683
+Added Block at 42, 0:  time = 235.185
+Added Block at 43, 0:  time = 235.2345
+Added Block at 44, 0:  time = 235.2512
+Added Block at 45, 0:  time = 235.2674
+Added Block at 46, 0:  time = 235.2845
+Added Block at 47, 0:  time = 235.3338
+Added Block at 48, 0:  time = 235.3505
+Added Block at 49, 0:  time = 235.3672
+Added Block at 50, 0:  time = 235.3838
+Added Block at 51, 0:  time = 235.401
+Added Block at 52, 0:  time = 235.401
+Added Block at 53, 0:  time = 235.4344
+Added Block at 54, 0:  time = 235.4511
+Added Block at 55, 0:  time = 235.4677
+Added Block at 56, 0:  time = 235.4839
+Added Block at 57, 0:  time = 235.501
+Added Block at 58, 0:  time = 235.5337
+Added Block at 59, 0:  time = 235.5337
+Added Block at 60, 0:  time = 235.5504
+Added Block at 61, 0:  time = 235.5667
+Added Block at 62, 0:  time = 235.5836
+Added Block at 63, 0:  time = 235.6003
+Added Block at 48, 1:  time = 236.1519
+Added Block at 47, 1:  time = 236.1685
+Added Block at 46, 1:  time = 236.1852
+Added Block at 45, 1:  time = 236.2184
+Added Block at 44, 1:  time = 236.2517
+Added Block at 43, 1:  time = 236.301
+Added Block at 42, 1:  time = 236.3511
+Added Block at 41, 1:  time = 236.4009
+Added Block at 40, 1:  time = 236.6017
+Added Block at 39, 1:  time = 236.7179
+Added Block at 38, 1:  time = 236.7678
+Added Block at 37, 1:  time = 236.7849
+Added Block at 36, 1:  time = 236.8183
+Added Block at 35, 1:  time = 236.8516
+Added Block at 34, 1:  time = 236.8678
+Added Block at 33, 1:  time = 236.8849
+Added Block at 32, 1:  time = 236.9016
+Added Block at 49, 1:  time = 243.9565
+Added Block at 50, 1:  time = 244.1242
+Added Block at 51, 1:  time = 244.1736
+Added Block at 52, 1:  time = 244.2245
+Added Block at 53, 1:  time = 244.3079
+Added Block at 54, 1:  time = 244.4072
+Added Block at 55, 1:  time = 244.5914
+Added Block at 56, 1:  time = 244.6889
+Added Block at 57, 1:  time = 244.7746
+Added Block at 58, 1:  time = 244.8411
+Added Block at 59, 1:  time = 244.9077
+Added Block at 60, 1:  time = 245.0078
+Added Block at 61, 1:  time = 245.0244
+Added Block at 62, 1:  time = 246.0757
+Added Block at 63, 1:  time = 246.175
+Added Block at 29, 10:  time = 252.9473
+Added Block at 29, 9:  time = 253.1641
+Added Block at 29, 8:  time = 253.2971
+Added Block at 29, 7:  time = 253.3805
+Added Block at 29, 6:  time = 253.481
+Added Block at 29, 5:  time = 253.5971
+Added Block at 29, 4:  time = 253.7139
+Added Block at 29, 3:  time = 253.8812
+Added Block at 29, 2:  time = 254.1313
+Added Block at 29, 2:  time = 257.8004
+Added Block at 29, 2:  time = 257.8004
+Added Block at 29, 2:  time = 257.8004
+Added Block at 29, 2:  time = 257.8004
+Added SmallCannon at 29, 2:  time = 258.2017
+Added Block at 29, 3:  time = 258.9356
+Added Block at 29, 3:  time = 258.9356
+Added Block at 29, 3:  time = 258.9356
+Added Block at 29, 3:  time = 258.9356
+Added Block at 29, 4:  time = 259.3521
+Added Block at 29, 4:  time = 259.3521
+Added Block at 29, 4:  time = 259.3521
+Added Block at 29, 4:  time = 259.3521
+Added Block at 29, 5:  time = 259.6869
+Added Block at 29, 5:  time = 259.6869
+Added Block at 29, 5:  time = 259.6869
+Added Block at 29, 5:  time = 259.6869
+Added Block at 29, 6:  time = 260.1359
+Added Block at 29, 6:  time = 260.1359
+Added Block at 29, 6:  time = 260.1359
+Added Block at 29, 6:  time = 260.1359
+Added SmallCannon at 32, 5:  time = 261.7202
+Added Block at 29, 7:  time = 263.7061
+Added Block at 29, 7:  time = 263.7061
+Added Block at 29, 7:  time = 263.7061
+Added Block at 29, 7:  time = 263.7061
+Added Block at 29, 8:  time = 264.1391
+Added Block at 29, 8:  time = 264.1391
+Added Block at 29, 8:  time = 264.1391
+Added Block at 29, 8:  time = 264.1391
+Added SmallCannon at 35, 7:  time = 267.175
+Added SmallCannon at 36, 7:  time = 268.6595
+Added SmallCannon at 35, 7:  time = 268.9589
+Added SmallCannon at 35, 7:  time = 268.9589
+Added SmallCannon at 35, 7:  time = 268.9589
+Added SmallCannon at 35, 7:  time = 268.9589
+Added SmallCannon at 36, 7:  time = 269.4769
+Added SmallCannon at 36, 7:  time = 269.4769
+Added SmallCannon at 36, 7:  time = 269.4769
+Added SmallCannon at 36, 7:  time = 269.4769
+Added SmallCannon at 32, 5:  time = 270.1442
+Added SmallCannon at 32, 5:  time = 270.1442
+Added SmallCannon at 32, 5:  time = 270.1442
+Added SmallCannon at 32, 5:  time = 270.1442
+Added SmallCannon at 31, 4:  time = 270.6774
+Added SmallCannon at 33, 6:  time = 271.3955
+Added Block at 28, 2:  time = 276.0146
+Added Block at 28, 2:  time = 276.8653
+Added Block at 28, 2:  time = 276.8653
+Added Block at 28, 2:  time = 276.8653
+Added Block at 28, 2:  time = 276.8653
+Added Block at 28, 3:  time = 277.5663
+Added Block at 29, 3:  time = 277.7005
+Added Block at 30, 3:  time = 277.8337
+Added Block at 31, 3:  time = 277.9339
+Added Block at 32, 3:  time = 278.1334
+Added Block at 28, 5:  time = 279.6017
+Added Block at 29, 5:  time = 279.7349
+Added Block at 30, 5:  time = 279.7848
+Added Block at 31, 5:  time = 279.8342
+Added Block at 32, 5:  time = 279.9358
+Added Block at 32, 4:  time = 280.3355
+Added Block at 32, 2:  time = 282.2367
+Added Block at 31, 2:  time = 282.2695
+Added Block at 31, 2:  time = 283.2709
+Added Block at 31, 2:  time = 283.2709
+Added Block at 31, 2:  time = 283.2709
+Added Block at 31, 2:  time = 283.2709
+Added Block at 32, 2:  time = 283.7706
+Added Block at 32, 2:  time = 283.7706
+Added Block at 32, 2:  time = 283.7706
+Added Block at 32, 2:  time = 283.7706
+Added Block at 32, 2:  time = 284.188
+Added Block at 33, 5:  time = 285.49
+Added Block at 34, 5:  time = 285.7726
+Added Block at 34, 6:  time = 285.8566
+Added Block at 34, 7:  time = 286.1731
+Added Block at 33, 7:  time = 286.4725
+Added Block at 32, 7:  time = 286.5565
+Added Block at 31, 7:  time = 286.6235
+Added Block at 30, 7:  time = 286.7065
+Added Block at 29, 7:  time = 286.8237
+Added Block at 28, 7:  time = 287.1732
+Added Block at 29, 9:  time = 288.1751
+Added Block at 29, 9:  time = 288.1751
+Added Block at 29, 9:  time = 288.1751
+Added Block at 29, 9:  time = 288.1751
+Added Block at 29, 10:  time = 288.3078
+Added Mario at 0, 9:  time = 313.4102
+Added Flag at 37, 2:  time = 343.3002
+Ended Turn:  time = 346.5699
+Added Goomba at 26, 2:  time = 349.1239
+Added Goomba at 26, 3:  time = 350.0246
+Added Block at 29, 12:  time = 350.9244
+Added Block at 35, 12:  time = 351.8082
+Added Koopa at 36, 2:  time = 352.693
+Added Goomba at 44, 6:  time = 353.5935
+Player Turn:  time = 354.0941
+Added Block at 0, 8:  time = 367.0206
+Added Block at 0, 8:  time = 367.0206
+Added Block at 0, 8:  time = 367.0206
+Added Block at 0, 8:  time = 367.0206
+Added Ground at 0, 8:  time = 367.2714
+Added Block at 1, 8:  time = 367.8541
+Added Block at 1, 8:  time = 367.8541
+Added Block at 1, 8:  time = 367.8541
+Added Block at 1, 8:  time = 367.8541
+Added Ground at 1, 8:  time = 369.6219
+Starting Run:  time = 373.8255
+Player had score 0
+Lost!
+Player BulletBill:  time = 384.2255
+Player had score 0
+Lost!
+Player BulletBill:  time = 390.7019
+Player BulletBill:  time = 393.4192
+Player had score 0
+Lost!
+Player BulletBill:  time = 401.0637
+Player BulletBill:  time = 404.1996
+Player BulletBill:  time = 407.1687
+Player BulletBill:  time = 410.2378
+Player BulletBill:  time = 415.0581
+Player BulletBill:  time = 417.0419
+Player had score 0
+Lost!
+Player BulletBill:  time = 422.3006
+Player had score 0
+Lost!
+Player BulletBill:  time = 428.1105
+Player BulletBill:  time = 430.7797
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+Player BulletBill:  time = 444.761
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+Player BulletBill:  time = 456.1795
+End Run:  time = 457.3138
+Grid Cleared:  time = 457.3304
+Load Grid Start:  time = 457.3304
+Grid Cleared:  time = 457.3304
+Load Grid End:  time = 457.3304
+Added Pipe at 8, 4:  time = 465.5907
+Added Question at 13, 13:  time = 473.2453
+Added Question at 14, 13:  time = 473.7127
+Added Coin at 1, 10:  time = 483.0208
+Added Coin at 2, 11:  time = 483.8715
+Added Coin at 3, 12:  time = 484.3388
+Added Coin at 4, 12:  time = 485.0723
+Added Coin at 5, 12:  time = 486.0394
+Added Coin at 6, 11:  time = 486.6227
+Added Coin at 7, 10:  time = 487.4736
+Ended Turn:  time = 490.1091
+Added Goomba at 11, 9:  time = 491.3406
+Player Turn:  time = 491.8409
+Ended Turn:  time = 499.6643
+Added Block at 9, 12:  time = 500.8832
+Player Turn:  time = 501.3834
+Ended Turn:  time = 503.0686
+Added Goomba at 7, 6:  time = 504.287
+Added Hard Shell at 20, 3:  time = 505.1712
+Added Block at 21, 12:  time = 506.0553
+Added Block at 22, 12:  time = 506.939
+Player Turn:  time = 507.4398
+Added Cloud 2 at 1, 12:  time = 515.7634
+Added Cloud 2 at 4, 10:  time = 518.4642
+Added Cloud 2 at 7, 12:  time = 520.2488
+Added Cloud 2 at 9, 10:  time = 521.2
+Added Cloud 2 at 12, 12:  time = 523.4357
+Added Cloud 2 at 15, 10:  time = 526.0704
+Ended Turn:  time = 527.6382
+Added Goomba at 2, 10:  time = 528.8609
+Added Goomba at 19, 3:  time = 529.7607
+Added Block at 23, 12:  time = 530.6621
+Player Turn:  time = 531.1774
+Added Castle at 42, 2:  time = 539.3348
+Ended Turn:  time = 540.9186
+Added Koopa at 57, 4:  time = 542.1359
+Player Turn:  time = 542.6367
+Added Hill at 25, 2:  time = 560.8348
+Added Hill at 28, 8:  time = 564.8209
+Ended Turn:  time = 566.9222
+Added Goomba at 15, 4:  time = 568.1384
+Added Block at 17, 12:  time = 569.0223
+Added Block at 25, 12:  time = 569.9061
+Added Hard Shell at 31, 8:  time = 570.7902
+Player Turn:  time = 571.2908
+Starting Run:  time = 573.4266
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+Player GoombaSquish:  time = 578.3806
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player GoombaSquish:  time = 580.8483
+Player had score 5000
+Lost!
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+Player got Coin
+Player got Coin
+Player GoombaSquish:  time = 586.1782
+Player got Coin
+Player got Coin
+Player got Coin
+Player BulletBill:  time = 589.7493
+Player BulletBill:  time = 592.7841
+Player GoombaSquish:  time = 593.2515
+Player had score 5000
+Lost!
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player had score 4000
+Lost!
+Player had score 0
+Lost!
+Player GoombaSquish:  time = 604.7601
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player had score 6000
+Lost!
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+Player got Coin
+Player GoombaSquish:  time = 612.6285
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player had score 5000
+Lost!
+Player had score 0
+Lost!
+Player GoombaSquish:  time = 639.34
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player GoombaSquish:  time = 641.2918
+Player had score 5000
+Lost!
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+End Run:  time = 654.0129
+Grid Cleared:  time = 654.0295
+Load Grid Start:  time = 654.0295
+Grid Cleared:  time = 654.0295
+Load Grid End:  time = 654.0295
+Added Goomba at 2, 10:  time = 659.437
+Added Goomba at 2, 10:  time = 659.437
+Added Goomba at 2, 10:  time = 659.437
+Added Goomba at 2, 10:  time = 659.437
+Ended Turn:  time = 661.7883
+Added Goomba at 23, 4:  time = 663.0056
+Added Block at 24, 12:  time = 663.8891
+Added Block at 32, 12:  time = 664.7745
+Player Turn:  time = 665.2905
+Added Goomba at 23, 4:  time = 666.6423
+Added Goomba at 23, 4:  time = 666.6423
+Added Goomba at 23, 4:  time = 666.6423
+Added Goomba at 23, 4:  time = 666.6423
+Added Hill at 25, 3:  time = 667.4257
+Added Hill at 25, 3:  time = 667.4257
+Added Hill at 25, 3:  time = 667.4257
+Added Hill at 25, 3:  time = 667.4257
+Added Goomba at 26, 3:  time = 668.5272
+Added Goomba at 26, 3:  time = 668.5272
+Added Goomba at 26, 3:  time = 668.5272
+Added Goomba at 26, 3:  time = 668.5272
+Added Goomba at 26, 2:  time = 668.9261
+Added Goomba at 26, 2:  time = 668.9261
+Added Goomba at 26, 2:  time = 668.9261
+Added Goomba at 26, 2:  time = 668.9261
+Added Block at 8, 0:  time = 671.7121
+Added Block at 8, 0:  time = 671.7121
+Added Block at 8, 0:  time = 671.7121
+Added Block at 8, 0:  time = 671.7121
+Added Ground at 8, 0:  time = 672.2128
+Added Ground at 8, 0:  time = 672.546
+Added Ground at 8, 0:  time = 672.546
+Added Ground at 8, 0:  time = 672.546
+Added Ground at 8, 0:  time = 672.546
+Added Ground at 8, 0:  time = 673.1958
+Added Block at 8, 1:  time = 673.4802
+Added Block at 8, 1:  time = 673.4802
+Added Block at 8, 1:  time = 673.4802
+Added Block at 8, 1:  time = 673.4802
+Added Ground at 8, 1:  time = 674.1141
+Added Block at 13, 0:  time = 676.5657
+Added Block at 13, 0:  time = 676.5657
+Added Block at 13, 0:  time = 676.5657
+Added Block at 13, 0:  time = 676.5657
+Added Block at 13, 1:  time = 678.0344
+Added Block at 13, 1:  time = 678.0344
+Added Block at 13, 1:  time = 678.0344
+Added Block at 13, 1:  time = 678.0344
+Added Treetop at 13, 0:  time = 678.7509
+Added Treetop at 13, 1:  time = 679.0519
+Added Treetop at 13, 0:  time = 680.219
+Added Treetop at 13, 0:  time = 680.219
+Added Treetop at 13, 0:  time = 680.219
+Added Treetop at 13, 0:  time = 680.219
+Added Treetop at 13, 1:  time = 680.9362
+Added Treetop at 13, 1:  time = 680.9362
+Added Treetop at 13, 1:  time = 680.9362
+Added Treetop at 13, 1:  time = 680.9362
+Added Ground at 13, 0:  time = 686.5397
+Added Ground at 13, 1:  time = 687.241
+Added Block at 3, 10:  time = 690.9441
+Starting Run:  time = 695.2303
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player GoombaSquish:  time = 701.1393
+Player got Coin
+Player had score 6000
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player had score 6000
+Lost!
+Player had score 0
+Lost!
+Player had score 0
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player had score 6000
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player BulletBill:  time = 740.4776
+Player got Coin
+Player BulletBill:  time = 743.4635
+Player GoombaSquish:  time = 743.931
+Player BulletBill:  time = 746.4991
+Player GoombaSquish:  time = 746.8994
+Player BulletBill:  time = 749.101
+Player BulletBill:  time = 749.5517
+Player BulletBill:  time = 752.7382
+Player BulletBill:  time = 753.4207
+Player BulletBill:  time = 756.0402
+Player GoombaSquish:  time = 757.7753
+Player GoombaSquish:  time = 758.7759
+Player BeetleSquish:  time = 759.7098
+Player had score 4000
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player GoombaSquish:  time = 772.8903
+Player BulletBill:  time = 774.4571
+Player GoombaSquish:  time = 776.6259
+Player BeetleSquish:  time = 782.3627
+Player had score 6000
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player GoombaSquish:  time = 785.037
+Player GoombaSquish:  time = 786.2041
+Player had score 4000
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player BulletBill:  time = 790.0134
+Player had score 6000
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player GoombaSquish:  time = 792.5372
+Player had score 5000
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player GoombaSquish:  time = 796.68
+Player had score 3000
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player GoombaSquish:  time = 801.0866
+Player had score 7000
+Lost!
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player got Coin
+Player GoombaSquish:  time = 805.444
+End Run:  time = 807.6118
+Grid Cleared:  time = 807.6286
+Load Grid Start:  time = 807.6286
+Grid Cleared:  time = 807.6286
+Load Grid End:  time = 807.6286
+Ended Turn:  time = 825.696
+Added Block at 14, 12:  time = 826.9128
+Ended Turn:  time = 827.1635
+Added Goomba at 25, 5:  time = 828.3833
+Added Goomba at 17, 4:  time = 828.65
+Player Turn:  time = 828.8841
+Added Block at 18, 12:  time = 829.5345
+Player Turn:  time = 830.0511
+Ended Turn:  time = 832.8032
+Added Block at 15, 12:  time = 834.0212
+Added Hard Shell at 18, 4:  time = 834.9059
+Added Goomba at 31, 11:  time = 835.8065
+Player Turn:  time = 836.3065
+Added Block at 14, 12:  time = 840.7767
+Added Block at 14, 12:  time = 840.7767
+Added Block at 14, 12:  time = 840.7767
+Added Block at 14, 12:  time = 840.7767
+Added Block at 15, 12:  time = 841.3266
+Added Block at 15, 12:  time = 841.3266
+Added Block at 15, 12:  time = 841.3266
+Added Block at 15, 12:  time = 841.3266
+Added Block at 17, 12:  time = 841.8607
+Added Block at 17, 12:  time = 841.8607
+Added Block at 17, 12:  time = 841.8607
+Added Block at 17, 12:  time = 841.8607
+Added Block at 18, 12:  time = 841.9603
+Added Block at 18, 12:  time = 841.9603
+Added Block at 18, 12:  time = 841.9603
+Added Block at 21, 12:  time = 842.1272
+Added Block at 21, 12:  time = 842.1272
+Added Block at 21, 12:  time = 842.1272
+Added Block at 21, 12:  time = 842.1272
+Added Block at 22, 12:  time = 842.1614
+Added Block at 22, 12:  time = 842.1614
+Added Block at 22, 12:  time = 842.1614
+Added Block at 22, 12:  time = 842.1614
+Added Block at 23, 12:  time = 842.2115
+Added Block at 23, 12:  time = 842.2115
+Added Block at 23, 12:  time = 842.2115
+Added Block at 23, 12:  time = 842.2115
+Added Block at 24, 12:  time = 842.277
+Added Block at 24, 12:  time = 842.277
+Added Block at 24, 12:  time = 842.277
+Added Block at 24, 12:  time = 842.277
+Added Block at 25, 12:  time = 842.327
+Added Block at 25, 12:  time = 842.327
+Added Block at 29, 12:  time = 842.9622
+Added Block at 29, 12:  time = 842.9622
+Added Block at 29, 12:  time = 842.9622
+Added Block at 32, 12:  time = 843.0618
+Added Block at 35, 12:  time = 843.2112
+Added Block at 35, 12:  time = 843.2112
+Added Goomba at 31, 11:  time = 843.8785
+Added Goomba at 31, 11:  time = 843.8785
+Added Goomba at 31, 11:  time = 843.8785
+Added Goomba at 31, 11:  time = 843.8785
+Added Question at 21, 4:  time = 844.8634
+Added Question at 21, 4:  time = 844.8634
+Added Question at 21, 4:  time = 844.8634
+Added Question at 21, 4:  time = 844.8634
+Added Hard Shell at 20, 3:  time = 845.1466
+Added Hard Shell at 20, 3:  time = 845.1466
+Added Goomba at 19, 3:  time = 845.4641
+Added Koopa at 36, 2:  time = 847.5489
+Added Koopa at 36, 2:  time = 847.5489
+Added Koopa at 36, 2:  time = 847.5489
+Added Koopa at 36, 2:  time = 847.5489
+Added Hard Shell at 31, 8:  time = 848.2828
+Added Hard Shell at 31, 8:  time = 848.2828
+Added Hard Shell at 31, 8:  time = 848.2828
+Added Hard Shell at 31, 8:  time = 848.2828
+Added Goomba at 25, 5:  time = 849.3334
+Added Goomba at 25, 5:  time = 849.3334
+Added Goomba at 25, 5:  time = 849.3334
+Added Goomba at 25, 5:  time = 849.3334
+Ended Turn:  time = 851.9186
+Added Block at 2, 12:  time = 853.1385
+Added Block at 10, 12:  time = 854.0375
+Added Hard Shell at 16, 2:  time = 854.9376
+Added Block at 21, 12:  time = 855.8226
+Added Block at 24, 12:  time = 856.7067
+Added Goomba at 33, 8:  time = 857.6066
+Player Turn:  time = 858.1071
+Added Block at 3, 10:  time = 860.0083
+Added Block at 3, 10:  time = 860.0083
+Added Block at 3, 10:  time = 860.0083
+Added Block at 3, 10:  time = 860.0083
+Added Coin at 2, 11:  time = 860.3091
+Added Coin at 2, 11:  time = 860.3091
+Added Coin at 2, 11:  time = 860.3091
+Added Coin at 2, 11:  time = 860.3091
+Added Block at 2, 12:  time = 860.7426
+Added Block at 2, 12:  time = 860.7426
+Added Coin at 2, 11:  time = 866.1475
+Added Bar at 23, 3:  time = 881.7252
+Added Bar at 24, 3:  time = 882.4421
+Added Bar at 24, 3:  time = 882.4421
+Added Bar at 24, 3:  time = 882.4421
+Added Bar at 24, 3:  time = 882.4421
+Added Bar at 4, 8:  time = 884.5787
+Added Bar at 6, 8:  time = 892.8843
+Added Bar at 6, 8:  time = 892.8843
+Added Bar at 6, 8:  time = 892.8843
+Added Bar at 6, 8:  time = 892.8843
+Ended Turn:  time = 896.5375
+Added Goomba at 10, 5:  time = 897.7563
+Added Block at 11, 12:  time = 898.6396
+Added Block at 14, 12:  time = 899.5234
+Player Turn:  time = 900.025
+Added Block at 14, 12:  time = 901.0916
+Added Block at 14, 12:  time = 901.0916
+Added Block at 14, 12:  time = 901.0916
+Added Block at 14, 12:  time = 901.0916
+Added CannonBody at 17, 5:  time = 904.644
+Added CannonBody at 17, 5:  time = 905.3121
+Added CannonBody at 17, 5:  time = 905.3121
+Added CannonBody at 17, 5:  time = 905.3121
+Added CannonBody at 17, 5:  time = 905.3121
+Added CannonBody at 20, 5:  time = 906.88
+Added CannonBody at 20, 5:  time = 907.5639
+Added CannonBody at 20, 5:  time = 907.5639
+Added CannonBody at 20, 5:  time = 907.5639
+Added CannonBody at 20, 5:  time = 907.5639
+Added CannonBody at 20, 5:  time = 908.0631
+Added CannonBody at 20, 5:  time = 908.4136
+Added CannonBody at 20, 5:  time = 908.4136
+Added CannonBody at 20, 5:  time = 908.4136
+Added CannonBody at 20, 5:  time = 908.4136
+Study End:  time = 967.4432
